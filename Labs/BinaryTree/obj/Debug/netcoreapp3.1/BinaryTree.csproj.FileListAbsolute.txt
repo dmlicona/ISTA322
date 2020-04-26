@@ -1,0 +1,8 @@
+C:\Users\denys\ISTA322\Labs\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.deps.json
+C:\Users\denys\ISTA322\Labs\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.dll
+C:\Users\denys\ISTA322\Labs\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.pdb
+C:\Users\denys\ISTA322\Labs\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.csprojAssemblyReference.cache
+C:\Users\denys\ISTA322\Labs\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.AssemblyInfoInputs.cache
+C:\Users\denys\ISTA322\Labs\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.AssemblyInfo.cs
+C:\Users\denys\ISTA322\Labs\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.dll
+C:\Users\denys\ISTA322\Labs\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.pdb

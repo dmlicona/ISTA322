@@ -1,0 +1,14 @@
+C:\Users\denys\ISTA322\Labs\BuildTree\bin\Debug\netcoreapp3.1\BuildTree.exe
+C:\Users\denys\ISTA322\Labs\BuildTree\bin\Debug\netcoreapp3.1\BuildTree.deps.json
+C:\Users\denys\ISTA322\Labs\BuildTree\bin\Debug\netcoreapp3.1\BuildTree.runtimeconfig.json
+C:\Users\denys\ISTA322\Labs\BuildTree\bin\Debug\netcoreapp3.1\BuildTree.runtimeconfig.dev.json
+C:\Users\denys\ISTA322\Labs\BuildTree\bin\Debug\netcoreapp3.1\BuildTree.dll
+C:\Users\denys\ISTA322\Labs\BuildTree\bin\Debug\netcoreapp3.1\BuildTree.pdb
+C:\Users\denys\ISTA322\Labs\BuildTree\bin\Debug\netcoreapp3.1\BinaryTree.dll
+C:\Users\denys\ISTA322\Labs\BuildTree\bin\Debug\netcoreapp3.1\BinaryTree.pdb
+C:\Users\denys\ISTA322\Labs\BuildTree\obj\Debug\netcoreapp3.1\BuildTree.csprojAssemblyReference.cache
+C:\Users\denys\ISTA322\Labs\BuildTree\obj\Debug\netcoreapp3.1\BuildTree.AssemblyInfoInputs.cache
+C:\Users\denys\ISTA322\Labs\BuildTree\obj\Debug\netcoreapp3.1\BuildTree.AssemblyInfo.cs
+C:\Users\denys\ISTA322\Labs\BuildTree\obj\Debug\netcoreapp3.1\BuildTree.csproj.CopyComplete
+C:\Users\denys\ISTA322\Labs\BuildTree\obj\Debug\netcoreapp3.1\BuildTree.dll
+C:\Users\denys\ISTA322\Labs\BuildTree\obj\Debug\netcoreapp3.1\BuildTree.pdb

@@ -1,0 +1,10 @@
+C:\Users\denys\ISTA322\Labs\writtenQuiz06\bin\Debug\netcoreapp3.1\writtenQuiz06.exe
+C:\Users\denys\ISTA322\Labs\writtenQuiz06\bin\Debug\netcoreapp3.1\writtenQuiz06.deps.json
+C:\Users\denys\ISTA322\Labs\writtenQuiz06\bin\Debug\netcoreapp3.1\writtenQuiz06.runtimeconfig.json
+C:\Users\denys\ISTA322\Labs\writtenQuiz06\bin\Debug\netcoreapp3.1\writtenQuiz06.runtimeconfig.dev.json
+C:\Users\denys\ISTA322\Labs\writtenQuiz06\bin\Debug\netcoreapp3.1\writtenQuiz06.dll
+C:\Users\denys\ISTA322\Labs\writtenQuiz06\bin\Debug\netcoreapp3.1\writtenQuiz06.pdb
+C:\Users\denys\ISTA322\Labs\writtenQuiz06\obj\Debug\netcoreapp3.1\writtenQuiz06.AssemblyInfoInputs.cache
+C:\Users\denys\ISTA322\Labs\writtenQuiz06\obj\Debug\netcoreapp3.1\writtenQuiz06.AssemblyInfo.cs
+C:\Users\denys\ISTA322\Labs\writtenQuiz06\obj\Debug\netcoreapp3.1\writtenQuiz06.dll
+C:\Users\denys\ISTA322\Labs\writtenQuiz06\obj\Debug\netcoreapp3.1\writtenQuiz06.pdb

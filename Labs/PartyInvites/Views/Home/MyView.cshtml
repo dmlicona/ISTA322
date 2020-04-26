@@ -1,0 +1,36 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+    <body>
+        <div class="text-center">
+            <h3>We're going to have an exciting party!</h3>
+            <h4>And you are invited</h4>
+            <a class="btn btn-primary" asp-action="RsvpForm">RSVP Now</a>
+        </div>
+
+            <div style="color: #ffffff; background-color: #ff0000; padding: 24px">
+                <h1>Hello @ViewBag.Fairy and @ViewBag.Cyborg</h1>
+                @ViewBag.Greeting (from the view)
+
+            </div>
+            <p>
+                We're going to have an exciting party.<br />
+                (To do: sell it better. Add pictures or something.)
+                <br />
+                <a asp-action="RsvpForm">RSVP Now</a>
+            </p>
+</body>
+</html>
+The new contents of the view file are mostly HTML. The exception is the part that looks like
+this:
+...
+@{
+    Layout = null;
+}

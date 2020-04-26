@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Quantico Lab 01</title>
+	<script language="JavaScript">
+	...
+	</script>
+	<style type="text/css" rel="stylesheet">
+	...
+	</style>
+	<meta  title="author" content="Denis Licona" />
+	<meta title="date" content="February 26, 2020" />
+	<meta title="exam" content="Passed AZ900"/>
+	<link ... />
+	</head>
+	
+	<body>
+	<a name="top" id="top" />
+	<h1>Quantico HTML Lab 1</h1>
+	<hr />
+	
+	<h1>Contents</h1>
+		<a href="#header">Go to headers and paragraph</a><br />
+		<a href="#list">Go to list</a><br />
+		<a href="#table">Go to tables</a><br />
+		<a href="#generic">Go to generic elements </a><br />
+		<a href="https://Tesla.com">Tesla</a><br />
+		<a href="https://cnn.com">CNN</a><br />
+		<a href="https://foxnews.com"target="new">Fox</a><br />
+
+	
+	<hr />
+	
+	
+	<a name="header" id="header" />
+	<h2>Headers and Paragraphs</h2>
+
+	
+		<h3>Paragraph Illustration</h3>
+	<p>This is a paragraph</p>
+	
+	<hr />
+	<h3>Abraham Lincoln</h3>
+	
+	<p>Four score and seven <i>years</i> ago our fathers brought forth on this <b>continent</b>, a new nation, conceived in <b><i>Liberty</i></b>, and dedicated to the proposition that all men are created equal.</p>
+	
+	<a name="list" id="list" />
+	<h2>Lists</h2>
+	<h3>Ordered List</h3>
+	
+	<ol>
+		<li>Green</li>
+		<li>Eggs</li>
+		<li>and</li>
+		<li>Ham</li>
+	</ol>
+	
+	<h3>Unordered List</h3>
+	
+	<ul>
+		<li>The</li>
+		<li>Cat</li>
+		<li>in</li>
+		<li>the</li>
+		<li>hat</li>
+	</ul>/
+	
+	<h3>Dictionary List</h3>
+	
+	<dl> 
+		<dt>M1 Garand</dt>
+		<dd>30 Cal</dd>
+		<dt>M14</dt>
+		<dd>7.62mm</dd>
+		<dt>M16</dt>
+		<dd>5.56</dd>
+		<dt>M1911</dt>
+		<dd>45 cal</dd>
+		<dt>M2</dt>
+		<dd>50 cal</dd>
+	</dl>
+	
+	<a href="#top">Go To Top</a>
+	
+	<a name="table" id="table" />
+	<h2>Tables</h2>
+	
+	<h3>Simple Table</h3>
+	
+	<table rules="all">
+		<tr>
+			<th>Breakfast</th>
+			<th>Lunch</th>
+			<th>Supper</th>
+		</tr>
+		<tr>
+			<td>Coffee</td>
+			<td>fake chicken</td>
+			<td>chicken wings</td>
+		</tr>
+		<tr>
+			<td>orange</td>
+			<td>tofu</td>
+			<td>celery</td>		
+		</tr>
+	</table>
+	<br /><br /><hr /><br />
+	<table rules="all">
+	<caption>Music Database</caption>
+	<hr />
+		<tr>
+			<th>Title</th>
+			<th>Artist</th>
+			<th>Album</th>
+			<th>Release Date</th>
+		</tr>
+		<tr>
+			<th colspan="4">R &amp; b</th>
+		</tr>
+		<tr>
+			<td>Confession</td>
+			<td>Usher</td>
+			<td>Confessions</td>
+			<td>2004</td>
+		</tr>
+		<tr>
+			<td>Baby</td>
+			<td>Justin Beiber</td>
+			<td>My Environment</td>
+			<td>2009</td>
+		</tr>
+		<tr>
+			<th colspan="4">Country</th>
+		</tr>
+		<tr>
+			<td>Hound Dog</td>
+			<td>Elvis Pressley</td>
+			<td>Hound Dog</td>
+			<td>1956</td>
+		</tr>
+		<tr>
+			<td>Speechless</td>
+			<td>Dan &amp; Shay</td>
+			<td>Album 1</td>
+			<td>2018</td>
+		</tr>
+		<tr>
+			<td>It's 5 o clock somewhere</td>
+			<td>Alan Jackson</td>
+			<td>Album1</td>
+			<td>2014</td>
+		</tr>
+	</table>
+	
+	<a href="#top">Go to top</a>
+	<a name="form" id="form" />
+	<h2>Forms</h2>
+	
+	<form>
+			<input type="hidden" name="secret" value="I'm secret" />
+		UserName: <input type="Text" /><br />
+		Password: <input type="Password" /><br />
+		pick a number: <input type="range" value='50' min='0' max='100' step='5' name="myrange" id="myrange" oninput='rangedisplay.value = myrange.value' /><br />
+		
+		<h3>My Pizza</h3>
+		<input type="checkbox" name="mypizza" value="pineapple" />
+		pineapple
+		<input type="checkbox" name="mypizza" value="banana peppers" />
+		Banana Peppers
+		<input type="checkbox" name="mypizza" value="onion" />
+		Onion
+		<input type="checkbox" name="mypizza" value="mushrooms" />
+		Mushrooms
+		<input type="checkbox" name="mypizza" value="anchioves" />
+		Anchioves
+		
+		<br /><br />
+		<input type="radio" name="sex" value="Male" checked="checked" /> Male
+		<input type="radio" name="sex" value="Female" /> Female
+		<input type="radio" name="sex" value="I don't know" /> Other
+		
+		<br /><br />
+		
+		<select name="yourpizza" size="6" multiple="multiple">
+			<option value="bacon">Bacon</option>
+			<option value="jalapenos">Jalapenos</option>
+			<option value="chicken">Chicken</option>
+			<option value="extra cheese">Extra Cheese</option>
+			<option value="Pepper">Pepper</option>
+			<option value="Truffle">Black Truffle</option>
+			
+		</select>
+		
+		<textarea rows="6" cols="40" name="comments" id="comments" value="Enter Comments"
+		onfocus="comments.value = "" "/>
+		Enter your comments
+			
+		</textarea>
+	
+		
+		<hr />
+		submit: <input type="submit" /><br />
+		
+		<h1>Generic Elements</h1>
+		<a name="generic" />
+		<div>First</div>
+		<div>Second</div>
+		<div>Third</div>
+		<div>Christians started to fast during Lent in the 5th-9th century. They made it a tradition to remember and reflect on Jesus Christ's fasting in the wilderness.
+Back then, they stuck to a strict tradition. People were forbidden to eat meat and fish and had to eat one meal a day.
+Many Christians still fast today, but it's a lot different.
+		</div>
+		<span>Uno</span>
+		<span>Dos</span>
+		<span>Christians started to fast during Lent in the 5th-9th century. They made it a tradition to remember and reflect on Jesus Christ's fasting in the wilderness.
+Back then, they stuck to a strict tradition. People were forbidden to eat meat and fish and had to eat one meal a day.
+Many Christians still fast today, but it's a lot different.
+</span>
+
+		
+	</form>
+	</body>
+</html>
+
