@@ -1,0 +1,11 @@
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.BisectionAlgorith\bin\Debug\netcoreapp3.1\cssb_ex08.BisectionAlgorith.exe
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.BisectionAlgorith\bin\Debug\netcoreapp3.1\cssb_ex08.BisectionAlgorith.deps.json
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.BisectionAlgorith\bin\Debug\netcoreapp3.1\cssb_ex08.BisectionAlgorith.runtimeconfig.json
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.BisectionAlgorith\bin\Debug\netcoreapp3.1\cssb_ex08.BisectionAlgorith.runtimeconfig.dev.json
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.BisectionAlgorith\bin\Debug\netcoreapp3.1\cssb_ex08.BisectionAlgorith.dll
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.BisectionAlgorith\bin\Debug\netcoreapp3.1\cssb_ex08.BisectionAlgorith.pdb
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.BisectionAlgorith\obj\Debug\netcoreapp3.1\cssb_ex08.BisectionAlgorith.csprojAssemblyReference.cache
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.BisectionAlgorith\obj\Debug\netcoreapp3.1\cssb_ex08.BisectionAlgorith.AssemblyInfoInputs.cache
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.BisectionAlgorith\obj\Debug\netcoreapp3.1\cssb_ex08.BisectionAlgorith.AssemblyInfo.cs
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.BisectionAlgorith\obj\Debug\netcoreapp3.1\cssb_ex08.BisectionAlgorith.dll
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.BisectionAlgorith\obj\Debug\netcoreapp3.1\cssb_ex08.BisectionAlgorith.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cssb_ex08.FireArm_Properties", "cssb_ex08.FireArm_Properties.csproj", "{64D65E18-2DF1-42E7-9D1B-31DD6D014C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64D65E18-2DF1-42E7-9D1B-31DD6D014C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D65E18-2DF1-42E7-9D1B-31DD6D014C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D65E18-2DF1-42E7-9D1B-31DD6D014C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D65E18-2DF1-42E7-9D1B-31DD6D014C40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B08E55A5-F77A-48D2-847B-86E5A815085F}
+	EndGlobalSection
+EndGlobal

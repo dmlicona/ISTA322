@@ -1,0 +1,11 @@
+C:\Users\denys\ISTA322\Exercises\UnderstandClassesMethodsProperties\bin\Debug\netcoreapp3.1\UnderstandClassesMethodsProperties.exe
+C:\Users\denys\ISTA322\Exercises\UnderstandClassesMethodsProperties\bin\Debug\netcoreapp3.1\UnderstandClassesMethodsProperties.deps.json
+C:\Users\denys\ISTA322\Exercises\UnderstandClassesMethodsProperties\bin\Debug\netcoreapp3.1\UnderstandClassesMethodsProperties.runtimeconfig.json
+C:\Users\denys\ISTA322\Exercises\UnderstandClassesMethodsProperties\bin\Debug\netcoreapp3.1\UnderstandClassesMethodsProperties.runtimeconfig.dev.json
+C:\Users\denys\ISTA322\Exercises\UnderstandClassesMethodsProperties\bin\Debug\netcoreapp3.1\UnderstandClassesMethodsProperties.dll
+C:\Users\denys\ISTA322\Exercises\UnderstandClassesMethodsProperties\bin\Debug\netcoreapp3.1\UnderstandClassesMethodsProperties.pdb
+C:\Users\denys\ISTA322\Exercises\UnderstandClassesMethodsProperties\obj\Debug\netcoreapp3.1\UnderstandClassesMethodsProperties.csprojAssemblyReference.cache
+C:\Users\denys\ISTA322\Exercises\UnderstandClassesMethodsProperties\obj\Debug\netcoreapp3.1\UnderstandClassesMethodsProperties.AssemblyInfoInputs.cache
+C:\Users\denys\ISTA322\Exercises\UnderstandClassesMethodsProperties\obj\Debug\netcoreapp3.1\UnderstandClassesMethodsProperties.AssemblyInfo.cs
+C:\Users\denys\ISTA322\Exercises\UnderstandClassesMethodsProperties\obj\Debug\netcoreapp3.1\UnderstandClassesMethodsProperties.dll
+C:\Users\denys\ISTA322\Exercises\UnderstandClassesMethodsProperties\obj\Debug\netcoreapp3.1\UnderstandClassesMethodsProperties.pdb

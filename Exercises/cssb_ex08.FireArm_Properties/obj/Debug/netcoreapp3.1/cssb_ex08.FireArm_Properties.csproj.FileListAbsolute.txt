@@ -1,0 +1,11 @@
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.FireArm_Properties\bin\Debug\netcoreapp3.1\cssb_ex08.FireArm_Properties.exe
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.FireArm_Properties\bin\Debug\netcoreapp3.1\cssb_ex08.FireArm_Properties.deps.json
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.FireArm_Properties\bin\Debug\netcoreapp3.1\cssb_ex08.FireArm_Properties.runtimeconfig.json
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.FireArm_Properties\bin\Debug\netcoreapp3.1\cssb_ex08.FireArm_Properties.runtimeconfig.dev.json
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.FireArm_Properties\bin\Debug\netcoreapp3.1\cssb_ex08.FireArm_Properties.dll
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.FireArm_Properties\bin\Debug\netcoreapp3.1\cssb_ex08.FireArm_Properties.pdb
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.FireArm_Properties\obj\Debug\netcoreapp3.1\cssb_ex08.FireArm_Properties.csprojAssemblyReference.cache
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.FireArm_Properties\obj\Debug\netcoreapp3.1\cssb_ex08.FireArm_Properties.AssemblyInfoInputs.cache
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.FireArm_Properties\obj\Debug\netcoreapp3.1\cssb_ex08.FireArm_Properties.AssemblyInfo.cs
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.FireArm_Properties\obj\Debug\netcoreapp3.1\cssb_ex08.FireArm_Properties.dll
+C:\Users\denys\ISTA322\Exercises\cssb_ex08.FireArm_Properties\obj\Debug\netcoreapp3.1\cssb_ex08.FireArm_Properties.pdb

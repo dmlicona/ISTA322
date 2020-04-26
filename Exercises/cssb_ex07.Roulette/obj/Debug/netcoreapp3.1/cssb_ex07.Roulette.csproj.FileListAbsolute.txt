@@ -1,0 +1,11 @@
+C:\Users\denys\ISTA322\Exercises\cssb_ex07.Roulette\obj\Debug\netcoreapp3.1\cssb_ex07.Roulette.csprojAssemblyReference.cache
+C:\Users\denys\ISTA322\Exercises\cssb_ex07.Roulette\obj\Debug\netcoreapp3.1\cssb_ex07.Roulette.AssemblyInfoInputs.cache
+C:\Users\denys\ISTA322\Exercises\cssb_ex07.Roulette\obj\Debug\netcoreapp3.1\cssb_ex07.Roulette.AssemblyInfo.cs
+C:\Users\denys\ISTA322\Exercises\cssb_ex07.Roulette\bin\Debug\netcoreapp3.1\cssb_ex07.Roulette.exe
+C:\Users\denys\ISTA322\Exercises\cssb_ex07.Roulette\bin\Debug\netcoreapp3.1\cssb_ex07.Roulette.deps.json
+C:\Users\denys\ISTA322\Exercises\cssb_ex07.Roulette\bin\Debug\netcoreapp3.1\cssb_ex07.Roulette.runtimeconfig.json
+C:\Users\denys\ISTA322\Exercises\cssb_ex07.Roulette\bin\Debug\netcoreapp3.1\cssb_ex07.Roulette.runtimeconfig.dev.json
+C:\Users\denys\ISTA322\Exercises\cssb_ex07.Roulette\bin\Debug\netcoreapp3.1\cssb_ex07.Roulette.dll
+C:\Users\denys\ISTA322\Exercises\cssb_ex07.Roulette\bin\Debug\netcoreapp3.1\cssb_ex07.Roulette.pdb
+C:\Users\denys\ISTA322\Exercises\cssb_ex07.Roulette\obj\Debug\netcoreapp3.1\cssb_ex07.Roulette.dll
+C:\Users\denys\ISTA322\Exercises\cssb_ex07.Roulette\obj\Debug\netcoreapp3.1\cssb_ex07.Roulette.pdb
